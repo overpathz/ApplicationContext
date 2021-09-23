@@ -1,6 +1,6 @@
 # ApplicationContext
 
-Simple implementation of Spring Application context. To scan package I use "ClassGraph" library.
+Simple implementation of Spring Application context. To scan packages I use "ClassGraph" library.
 
 pom.xml:
 
